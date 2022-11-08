@@ -4,3 +4,5 @@ dog2
 cat2
 cat3
 cat4g
+dog3
+dog4
